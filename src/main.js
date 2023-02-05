@@ -1,0 +1,1 @@
+const headerSwitch = document.querySelector('.header-1');

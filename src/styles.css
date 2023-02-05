@@ -96,7 +96,7 @@ nav .right .nav-right li {
   padding: 0 2rem;
   position: fixed;
   z-index: 1;
-  background-color: white;
+  background-color: red;
   box-shadow: 0 15px 30px rgba(0, 0, 0, 0.08);
 }
 
