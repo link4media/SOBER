@@ -22,7 +22,7 @@ header {
   padding: 0 2rem;
   position: fixed;
   z-index: 1;
-  background-color: rgba(101, 101, 101, 0.741);
+  /* background-color: rgba(101, 101, 101, 0.741); */
 }
 
 .header-change {
@@ -35,7 +35,7 @@ header {
 }
 
 .header-change:hover .header-2 {
-  display: block;
+  /* display: block; */
 }
 /* HEADER / nav */
 nav {
@@ -88,15 +88,16 @@ nav .right .nav-right li {
 /* HEADER 2 */
 
 .header-2 {
-  display: none
+
 }
 
 .header-2 {
+  display: none;
   width: 100%;
   padding: 0 2rem;
   position: fixed;
   z-index: 1;
-  background-color: red;
+  background-color: white;
   box-shadow: 0 15px 30px rgba(0, 0, 0, 0.08);
 }
 
